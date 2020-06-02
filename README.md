@@ -5,6 +5,5 @@ This Quick Start demonstrates an integration with AWS Lambda for Amazon EventBri
 
 ![Quick Start architecture for EventBridge Integration Solution for AWS Lambda](https://github.com/aws-quickstart/eventbridge-integration-solution-aws-lambda/raw/master/images/arch-eventbridge-lambda.png)
 
-For details and launch information, see the [data sheet](https://aws.amazon.com/quickstart/eventbridge/aws-lambda/).
 
 To post feedback, submit feature ideas, or report bugs, use the **Issues** section of [this GitHub repo](https://github.com/aws-quickstart/eventbridge-integration-solution-aws-lambda).
