@@ -1,5 +1,5 @@
 project:
-  name: eventbridge-integration
+  name: eventbridge-integration-solution-aws-lambda
   owner: quickstart-eng@amazon.com
   package_lambda: false
   regions:
