@@ -13,8 +13,8 @@ Metadata:
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
     Labels: ['amazon', 'eventbridge', 'integration', 'solution', 'aws', 'lambda']
-    HomePageUrl: https://github.com/aws-quickstart/eventbridge-integration-solution-aws-lambda
-    SemanticVersion: 0.1.6
+    HomePageUrl: https://aws.amazon.com/quickstart/eventbridge/aws-lambda/
+    SemanticVersion: 0.1.7
     SourceCodeUrl: https://github.com/aws-quickstart/eventbridge-integration-solution-aws-lambda
   AWS::CloudFormation::Interface:
     ParameterGroups:
